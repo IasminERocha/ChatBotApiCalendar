@@ -1,17 +1,17 @@
-##Objetivo
+## Objetivo
 
-###API CALENDAR
+### API CALENDAR
 
 API crida para validar e enviar email das reservas efetuadas pelo CHATBOT. Essa API será consumida pela plataforma BLIP que faz a criação de CHATBOTS. Quando o usuário finalizar sua reserva com o CHATBOT, seus dados serão validados e será enviado um email como seus dados de reserva.
 
 
-###Criação
+### Criação
 
 Foi criado para a disciplina de Tecnologias Emergentes, o trabalho foi pensando para meu pai que possui um sitio e não tem controle e nem tempo para as reservas. Então para facilitar a reserva, criei um chatbot que irá fazer todo o processo da reserva. E chegará para o meu pai somente o email da reserva. Esse CHATBOT se encontra no messenger do facebook, e foi utilizado a plataforma BLIP para criação do CHATBOT e o mesmo irá consumir  minha API.
 
-##FUNCIONANDO
+## FUNCIONANDO
 
-###Local
+### Local
 
 - Instale todas as dependências com **NPM INSTALL**
 - Crie um arquivo **.env** ele terá que possuir todas as variaveis do arquivo **env.default**
